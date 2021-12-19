@@ -1,0 +1,1 @@
+Start --- > Set HiddenWord,lives --- > Prompt for guess --- > Check guess -- > correct END; ----> False decriment lives if lives == 0  END;
